@@ -1,0 +1,10 @@
+.community-background {
+  background-image: url(../img/github@2x.jpg);  /*height: 400px;*/
+  background-position: center;
+  background-size: cover;
+  background-color: #212121EE;
+  background-blend-mode: multiply;
+  color: white;
+  padding: 2em;
+  margin: 2em;
+}
