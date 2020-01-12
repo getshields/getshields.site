@@ -9,7 +9,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/johnsundell/publish.git", from: "0.1.0"),
-        .package(url: "https://github.com/getshields/steven-paul-jobs-theme.git", from: "0.0.5")
+        .package(url: "https://github.com/getshields/steven-paul-jobs-theme.git", from: "0.0.6")
     ],
     targets: [
         .target(
